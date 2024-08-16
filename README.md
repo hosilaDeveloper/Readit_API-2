@@ -1,2 +1,2 @@
 # Readit_API-2
-Rest_fremework Readit API
+Rest_framework Readit API
